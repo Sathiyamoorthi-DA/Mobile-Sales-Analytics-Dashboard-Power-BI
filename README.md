@@ -11,6 +11,8 @@ An interactive multi-page Power BI dashboard designed to monitor and analyze mob
 
 [![Mobile Sales Analytics Dashboard](Screenshots/mobile-sales-analytics-overview.png)](https://github.com/Sathiyamoorthi-DA/Mobile-Sales-Analytics-Dashboard-Power-BI/blob/main/Screenshots/Mobile_sales_analysis_overview.png)
 
+[![Mobile Sales Analytics Dashboard](Screenshots/mobile-sales-analytics-overview.png)](https://github.com/Sathiyamoorthi-DA/Mobile-Sales-Analytics-Dashboard-Power-BI/blob/main/Screenshots/Mobile_sales_Product%26Brand%20Dashbaord.png)
+
 ## Business Objective
 
 The objective of this project is to build an enterprise-level sales and product analytics solution that gives executive stakeholders full visibility into overall revenue performance, brand market share, customer demographics, regional geographic demand, sales channel efficiency, and detailed model-level granular metrics.
