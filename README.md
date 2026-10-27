@@ -15,7 +15,7 @@ An interactive multi-page Power BI dashboard designed to monitor and analyze mob
 
 [![Mobile Sales Analytics Dashboard](Screenshots/mobile-sales-analytics-overview.png)](https://github.com/Sathiyamoorthi-DA/Mobile-Sales-Analytics-Dashboard-Power-BI/blob/main/Screenshots/Customer_anlaysis.png)
 
-[![Mobile Sales Analytics Dashboard](Screenshots/mobile-sales-analytics-overview.png)]
+[![Mobile Sales Analytics Dashboard](Screenshots/mobile-sales-analytics-overview.png)](https://github.com/Sathiyamoorthi-DA/Mobile-Sales-Analytics-Dashboard-Power-BI/blob/main/Screenshots/Mobile_sales_ProductPerformance_Dashboard.png)
 
 ## Business Objective
 
